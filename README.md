@@ -1,3 +1,2 @@
 # odin-recipes
-I haven't done anything to this project yet but I guess I'm supposed to be making a recipe of some sort.
-UPDATE: I have completed this project which means I have completed the my very own first web development project. Woohoo
+This project links to a website that has a list of recipes. Each recipe in the list is a link to the specific recipe webpage. This project is 100% html.
