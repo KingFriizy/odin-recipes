@@ -1,0 +1,16 @@
+.title {
+    text-align: center;
+    color: blue;
+}
+
+.mogul {
+    width: 500px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.thai {
+    color: red;
+    text-align: center;
+}
